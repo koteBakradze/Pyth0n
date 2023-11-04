@@ -9,6 +9,7 @@ answer = ""
 # git add . ვამატებ ფაილებს
 # git commit -m "აქ დავწერ კომენტარს ჩემ ცვლილებებზე"
 # git push ჩემ ცვლილებებს ავტვირთავ
+# git push --set-upstream origin ბრენჩის სახელი დაწერე ეს იმისთვის არის როდესაც ქმნი ახალ ვერსიას ანუ ბრენჩს
 
 print(f"გამარჯობა {name} {lastName} \t")
 if int(year) < 18:
